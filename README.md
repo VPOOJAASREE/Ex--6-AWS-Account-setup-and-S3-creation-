@@ -3,7 +3,7 @@
 ### DATE
 
 ## NAME: V. POOJAA SREE
-## REG NO: 212223040147
+## REG. NO: 212223040147
 ## Aim
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
