@@ -1,4 +1,4 @@
-## Ex.2 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
+## Ex.6 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
 
 ### DATE
 
